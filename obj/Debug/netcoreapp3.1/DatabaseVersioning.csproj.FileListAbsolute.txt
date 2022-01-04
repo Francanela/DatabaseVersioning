@@ -1,0 +1,17 @@
+C:\Projetos\FluentMigrator\databaseVersioning\databaseVersioning\bin\Debug\netcoreapp3.1\DatabaseVersioning.deps.json
+C:\Projetos\FluentMigrator\databaseVersioning\databaseVersioning\bin\Debug\netcoreapp3.1\DatabaseVersioning.dll
+C:\Projetos\FluentMigrator\databaseVersioning\databaseVersioning\bin\Debug\netcoreapp3.1\DatabaseVersioning.pdb
+C:\Projetos\FluentMigrator\databaseVersioning\databaseVersioning\obj\Debug\netcoreapp3.1\DatabaseVersioning.AssemblyInfoInputs.cache
+C:\Projetos\FluentMigrator\databaseVersioning\databaseVersioning\obj\Debug\netcoreapp3.1\DatabaseVersioning.AssemblyInfo.cs
+C:\Projetos\FluentMigrator\databaseVersioning\databaseVersioning\obj\Debug\netcoreapp3.1\DatabaseVersioning.csproj.CoreCompileInputs.cache
+C:\Projetos\FluentMigrator\databaseVersioning\databaseVersioning\obj\Debug\netcoreapp3.1\DatabaseVersioning.dll
+C:\Projetos\FluentMigrator\databaseVersioning\databaseVersioning\obj\Debug\netcoreapp3.1\DatabaseVersioning.pdb
+C:\Projetos\FluentMigrator\bin\Debug\netcoreapp3.1\DatabaseVersioning.deps.json
+C:\Projetos\FluentMigrator\bin\Debug\netcoreapp3.1\DatabaseVersioning.dll
+C:\Projetos\FluentMigrator\bin\Debug\netcoreapp3.1\DatabaseVersioning.pdb
+C:\Projetos\FluentMigrator\obj\Debug\netcoreapp3.1\DatabaseVersioning.csprojAssemblyReference.cache
+C:\Projetos\FluentMigrator\obj\Debug\netcoreapp3.1\DatabaseVersioning.AssemblyInfoInputs.cache
+C:\Projetos\FluentMigrator\obj\Debug\netcoreapp3.1\DatabaseVersioning.AssemblyInfo.cs
+C:\Projetos\FluentMigrator\obj\Debug\netcoreapp3.1\DatabaseVersioning.csproj.CoreCompileInputs.cache
+C:\Projetos\FluentMigrator\obj\Debug\netcoreapp3.1\DatabaseVersioning.dll
+C:\Projetos\FluentMigrator\obj\Debug\netcoreapp3.1\DatabaseVersioning.pdb

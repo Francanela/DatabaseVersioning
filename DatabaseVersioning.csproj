@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Scripts\M202112210918_UpdateScript\Down\UpdateTaskRollback.sql" />
+    <None Remove="Scripts\M202112210918_UpdateScript\Up\UpdateTask.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Scripts\M202112210918_UpdateScript\Down\UpdateTaskRollback.sql">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Scripts\M202112210918_UpdateScript\Up\UpdateTask.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentMigrator" Version="3.3.1" />
+  </ItemGroup>
+
+</Project>
