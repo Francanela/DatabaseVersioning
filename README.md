@@ -3,7 +3,7 @@ Database versioning solution using FluentMigrator and .netcore
 
 <b> FluentMigrator Project https://github.com/fluentmigrator/fluentmigrator</b>
 
-<b> list of most used commands </b>
+<h2> list of most used commands </h2>
 
 List of all pending migrations
 
